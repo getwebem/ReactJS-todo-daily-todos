@@ -4,6 +4,7 @@
 #### HTML5, Sass, React.js, Foundation 6, JSON, JavaScript ES6, Karma, Mocha, jQuery, Webpack 
  - Run  :  `git clone https://github.com/getwebem/todoApp.git`
  - Run  :  `cd todoApp`
+ - Run  :  `npm install`
  - Run  :  `npm start`
  - Open :  `http://localhost:3000`
  
