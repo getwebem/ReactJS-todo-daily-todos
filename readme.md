@@ -1,7 +1,7 @@
 # Todo app
 ### **Getting started**
 ### Technologies Used: 
-#### HTML5, Sass, React.js, Foundation 6, JSON, JavaScript ES6, Karma, Mocha, jQuery, Webpack 
+#### HTML5, Sass, React.js, Foundation 6, JSON, JavaScript ES6, Karma, Mocha, jQuery, Webpack, Moment.js 
  - Run  :  `git clone https://github.com/getwebem/todoApp.git`
  - Run  :  `cd todoApp`
  - Run  :  `npm install`
